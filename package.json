@@ -1,6 +1,6 @@
 {
-  "name": "rete-cli",
-  "version": "1.0.0-alpha1",
+  "name": "efficy-rete-cli",
+  "version": "1.0.0-alpha2",
   "description": "",
   "bin": {
     "rete": "./bin/index.js"
@@ -9,7 +9,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/retejs/rete-cli.git"
+    "url": "https://github.com/sfe-efficy/rete-cli.git"
   },
   "dependencies": {
     "@babel/core": "^7.17.5",
